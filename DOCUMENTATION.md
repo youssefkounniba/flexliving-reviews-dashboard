@@ -312,7 +312,7 @@ Google Reviews integration is **feasible but not recommended** for this MVP due 
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/youssefkounniba/flexliving-reviews-dashboard
 cd flexliving-reviews-dashboard
 
 # Install dependencies
@@ -444,47 +444,9 @@ curl "http://localhost:3000/api/reviews/hostaway?minRating=7&sortBy=rating&sortO
 
 ---
 
-## 9. Future Enhancements
 
-If given more time, I would implement:
 
-1. **Database Integration:**
-
-   - PostgreSQL or MongoDB for persistent storage
-   - Proper user authentication
-   - Review editing history
-
-2. **Advanced Analytics:**
-
-   - Trend charts using Chart.js or Recharts
-   - Sentiment analysis on review text
-   - Predictive analytics for property performance
-
-3. **Automated Insights:**
-
-   - AI-powered review summaries
-   - Anomaly detection (sudden rating drops)
-   - Competitive benchmarking
-
-4. **Email Notifications:**
-
-   - Alert managers about low ratings
-   - Weekly performance reports
-   - New review notifications
-
-5. **Mobile App:**
-
-   - React Native version for on-the-go management
-   - Push notifications
-   - Offline support
-
-6. **Multi-language Support:**
-   - i18n for international properties
-   - Auto-translation of reviews
-
----
-
-## 10. Development Notes
+## 9. Development Notes
 
 ### Challenges Faced
 
@@ -502,12 +464,12 @@ If given more time, I would implement:
 
 ---
 
-## 11. Contact
+## 10. Contact
 
 **Youssef Kounniba**  
 📧 youssef.kounniba@aiac.ma  
 📱 0691817675  
-💼 [LinkedIn](https://linkedin.com/in/youssef-kounniba)  
+💼 [LinkedIn](https://www.linkedin.com/in/youssefkounniba/)  
 💻 [GitHub](https://github.com/YoussefKounniba)
 
 ---
